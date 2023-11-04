@@ -1,9 +1,7 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
-import 'package:ostad_assignment11/photo_details_screen.dart';
 import 'package:http/http.dart' as http;
-
+import 'package:ostad_assignment11/photo_details_screen.dart';
 
 void main() {
   runApp(MyApp());
